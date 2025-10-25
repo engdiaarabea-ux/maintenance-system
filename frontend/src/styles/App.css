@@ -1,0 +1,26 @@
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="rtl"] .text-start {
+  text-align: right !important;
+}
+
+[dir="rtl"] .me-auto {
+  margin-right: 0 !important;
+  margin-left: auto !important;
+}
+
+[dir="ltr"] {
+  text-align: left;
+}
+
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+/* تنسيق عام */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
